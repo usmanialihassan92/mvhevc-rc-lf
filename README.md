@@ -1,6 +1,8 @@
-# mvhevc-rc-lf
-Author code for Two-Dimensional Hierarchical Rate Control Scheme For Light Field Compression Using MV-HEVC
+# Two-Dimensional Hierarchical Rate Control Scheme For Light Field Compression Using MV-HEVC
 
+:page_facing_up:Author code of the work submitted to Journal of Electronic Imaging, under special section of Light Field Imaging.
+
+:e-mail:Contact: ali.hassan@miun.se
 
 # Citation
 If you use these results, please consider citing the following work:
