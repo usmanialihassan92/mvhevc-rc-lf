@@ -13,7 +13,6 @@ If you use these results, please consider citing the following work:
   volume={7},
   number={},
   pages={143002-143014},
-  keywords={Image coding;Cameras;Correlation;Tools;Two dimensional displays;Transform coding;Organizations;Compression;light field;MV-HEVC;plenoptic},
   doi={10.1109/ACCESS.2019.2944765}}
 
 ```
