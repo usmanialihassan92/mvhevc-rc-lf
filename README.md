@@ -7,9 +7,25 @@
 # Results Comparison
 If you want to compare the performance of your method with our as well as state-of-the-art algorithm results, you can consider the ```generate_figures.ipnyb``` file.
 Just open it in the Google Colaboratory and add your results.
+
+# Citation
+If you use this source code or results, please consider citing the following work:
+```
+@ARTICLE{ahmad2019,
+  author={Ahmad, Waqas and Ghafoor, Mubeen and Tariq, Syed Ali and Hassan, Ali and Sjöström, Mårten and Olsson, Roger},
+  journal={IEEE Access}, 
+  title={Computationally Efficient Light Field Image Compression Using a Multiview HEVC Framework}, 
+  year={2019},
+  volume={7},
+  number={},
+  pages={143002-143014},
+  doi={10.1109/ACCESS.2019.2944765}}
+
+```
+
+# Reference
 Following algorithms has been considered:
-(MuLE-MTH) \cite{alves2020jpeg}, HEVC anchor \cite{hevcencoder265}, 4D-Prediction mode (Warping and Sparse Prediction (WaSP)) \cite{jpeg21}, HEVC-based LF codec (HEVC-HR) \cite{monteiro2020light}, Versatile Video Coding (VVC)-serpentine \cite{avramelos2019light}, Warping and Sparse Prediction on Regions (WaSPR) \cite{astola2019coding}, LF Translational Codec (LFTC) \cite{heriard2019light}
-References are as follow:
+
 Multidimensional Light Field Encoder using 4D Multiscale Transforms and Hexadeca-tree-oriented bit-plane Clustering (MuLE-MTH) \cite{alves2020jpeg}:
 ```
 @article{alves2020jpeg,
@@ -89,17 +105,3 @@ LF Translational Codec (LFTC) \cite{heriard2019light}
 ```
 
 
-# Citation
-If you use this source code or results, please consider citing the following work:
-```
-@ARTICLE{ahmad2019,
-  author={Ahmad, Waqas and Ghafoor, Mubeen and Tariq, Syed Ali and Hassan, Ali and Sjöström, Mårten and Olsson, Roger},
-  journal={IEEE Access}, 
-  title={Computationally Efficient Light Field Image Compression Using a Multiview HEVC Framework}, 
-  year={2019},
-  volume={7},
-  number={},
-  pages={143002-143014},
-  doi={10.1109/ACCESS.2019.2944765}}
-
-```
