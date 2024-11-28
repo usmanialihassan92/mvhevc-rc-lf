@@ -7,6 +7,86 @@
 # Results Comparison
 If you want to compare the performance of your method with our as well as state-of-the-art algorithm results, you can consider the ```generate_figures.ipnyb``` file.
 Just open it in the Google Colaboratory and add your results.
+Following algorithms has been considered:
+(MuLE-MTH) \cite{alves2020jpeg}, HEVC anchor \cite{hevcencoder265}, 4D-Prediction mode (Warping and Sparse Prediction (WaSP)) \cite{jpeg21}, HEVC-based LF codec (HEVC-HR) \cite{monteiro2020light}, Versatile Video Coding (VVC)-serpentine \cite{avramelos2019light}, Warping and Sparse Prediction on Regions (WaSPR) \cite{astola2019coding}, LF Translational Codec (LFTC) \cite{heriard2019light}
+References are as follow:
+Multidimensional Light Field Encoder using 4D Multiscale Transforms and Hexadeca-tree-oriented bit-plane Clustering (MuLE-MTH) \cite{alves2020jpeg}:
+```
+@article{alves2020jpeg,
+  title={The JPEG Pleno Light Field Coding Standard 4D-Transform Mode: How to Design an Efficient 4D-Native Codec},
+  author={Alves, Gustavo De Oliveira and De Carvalho, Murilo Bresciani and Pagliari, Carla L and Freitas, Pedro Garcia and Seidel, Ismael and Pereira, Marcio Pinto and Vieira, Carla Florentino Schueler and Testoni, Vanessa and Pereira, Fernando and Da Silva, Eduardo AB},
+  journal={IEEE Access},
+  volume={8},
+  pages={170807--170829},
+  year={2020},
+  publisher={IEEE}
+}
+```
+HEVC anchor \cite{hevcencoder265}
+```
+@software{hevcencoder265,
+  author    = {x265 Project},
+  title     = {x265 HEVC Encoder},
+  version   = {3.5},
+  howpublished       = {\url{https://www.videolan.org/developers/x265.html}},
+  note      = {(Accessed: 01 November 2024)},
+}
+```
+4D-Prediction mode (Warping and Sparse Prediction (WaSP)) \cite{jpeg21}
+```
+@misc{jpeg21,
+     title = {JPEG Pleno Light Field Verification Model 2.1},
+     howpublished = {\url{https://gitlab.com/wg1/jpeg-pleno-vm}},
+     note  = {(Accessed: 01 August 2024)},
+     type = {Web Page}
+}
+```
+HEVC-based LF codec (HEVC-HR) \cite{monteiro2020light}
+```
+@article{monteiro2020light,
+  title={Light field image coding based on hybrid data representation},
+  author={Monteiro, Ricardo JS and Rodrigues, Nuno MM and Faria, S{\'e}rgio MM and Nunes, Paulo JL},
+  journal={IEEE Access},
+  volume={8},
+  pages={115728--115744},
+  year={2020},
+  publisher={IEEE}
+}
+```
+Versatile Video Coding (VVC)-serpentine \cite{avramelos2019light}
+```
+@inproceedings{avramelos2019light,
+  title={Light field image compression using versatile video coding},
+  author={Avramelos, Vasileios and De Praeter, Johan and Van Wallendael, Glenn and Lambert, Peter},
+  booktitle={2019 IEEE 9th International Conference on Consumer Electronics (ICCE-Berlin)},
+  pages={70--75},
+  year={2019},
+  organization={IEEE}
+}
+```
+Warping and Sparse Prediction on Regions (WaSPR) \cite{astola2019coding}
+```
+@article{astola2019coding,
+  title={Coding of light fields using disparity-based sparse prediction},
+  author={Astola, Pekka and Tabus, Ioan},
+  journal={IEEE Access},
+  volume={7},
+  pages={176820--176837},
+  year={2019},
+  publisher={IEEE}
+}
+```
+LF Translational Codec (LFTC) \cite{heriard2019light}
+```
+@inproceedings{heriard2019light,
+  title={Light field compression using translation-assisted view estimation},
+  author={H{\'e}riard-Dubreuil, Baptiste and Viola, Irene and Ebrahimi, Touradj},
+  booktitle={2019 Picture Coding Symposium (PCS)},
+  pages={1--5},
+  year={2019},
+  organization={IEEE}
+}
+```
 
 
 # Citation
