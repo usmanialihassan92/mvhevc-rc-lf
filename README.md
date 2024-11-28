@@ -5,7 +5,7 @@
 :e-mail:Contact: ali.hassan@miun.se
 
 # Citation
-If you use these results, please consider citing the following work:
+If you use this source code or results, please consider citing the following work:
 ```
 @ARTICLE{ahmad2019,
   author={Ahmad, Waqas and Ghafoor, Mubeen and Tariq, Syed Ali and Hassan, Ali and Sjöström, Mårten and Olsson, Roger},
