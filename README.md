@@ -4,7 +4,8 @@
 
 Read paper at https://doi.org/10.1117/1.JEI.34.5.051005
 
-:e-mail:Contact: ali.hassan@miun.se
+:e-mail:Contact: ali.hassan@miun.se 
+:e-mail:Contact: usmani.alihassan92@gmail.com
 
 # Results Comparison
 If you want to compare the performance of your method with our as well as state-of-the-art algorithm results, you can consider the ```generate_figures.ipnyb``` file.
