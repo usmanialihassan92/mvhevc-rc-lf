@@ -1,12 +1,14 @@
 # Two-Dimensional Hierarchical Rate Control Scheme For Light Field Compression Using MV-HEVC
 
-:page_facing_up:Author code of the work submitted to Journal of Electronic Imaging, under special section of Light Field Imaging.
+:page_facing_up:Author code of the work published in Journal of Electronic Imaging, under the special section of Light Field Imaging.
+
+Read paper at https://doi.org/10.1117/1.JEI.34.5.051005
 
 :e-mail:Contact: ali.hassan@miun.se
 
 # Results Comparison
 If you want to compare the performance of your method with our as well as state-of-the-art algorithm results, you can consider the ```generate_figures.ipnyb``` file.
-Just open it in the Google Colaboratory and add your data to generate the results.
+Open it in Google Colaboratory, add your data, and generate the results.
 
 # Citation
 If you use this source code or results, please consider citing the following work:
@@ -39,7 +41,7 @@ If you use this source code or results, please consider citing the following wor
 
 
 # Reference
-Following algorithms has been considered:
+The following algorithms have been considered:
 
 Multidimensional Light Field Encoder using 4D Multiscale Transforms and Hexadeca-tree-oriented bit-plane Clustering (MuLE-MTH) \cite{alves2020jpeg}:
 ```
