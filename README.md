@@ -21,7 +21,22 @@ If you use this source code or results, please consider citing the following wor
   pages={143002-143014},
   doi={10.1109/ACCESS.2019.2944765}}
 
+@article{hassan2025,
+  author = {Ali Hassan and Waqas Ahmad and Mubeen Ghafoor and Kamran Qureshi and Roger Olsson and M{\aa}rten Sj{\"o}str{\"o}m},
+  title = {{Two-dimensional hierarchical rate control scheme for light field compression using Multi-View Extension of High-Efficiency Video Coding}},
+  volume = {34},
+  journal = {Journal of Electronic Imaging},
+  number = {5},
+  publisher = {SPIE},
+  pages = {051005},
+  year = {2025},
+  doi = {10.1117/1.JEI.34.5.051005},
+  URL = {https://doi.org/10.1117/1.JEI.34.5.051005}}
+
+
 ```
+
+
 
 # Reference
 Following algorithms has been considered:
